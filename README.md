@@ -1,0 +1,2 @@
+# RecycleviewCheckboxDemo
+recycleview列表中单选多选，取消反选功能
